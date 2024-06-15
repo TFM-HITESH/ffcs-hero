@@ -45,4 +45,5 @@ export const siteConfig: Metadata = {
   },
 } as const;
 
-export const sourceCode = "https://github.com/pedrojorge148/auth-next" as const;
+export const sourceCode =
+  "https://github.com/TFM-HITESH/Next-Auth-Template" as const;
