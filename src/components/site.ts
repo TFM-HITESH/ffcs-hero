@@ -40,8 +40,8 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Pedro Jorge",
-    url: "https://github.com/pedrojorge148",
+    name: "Hitesh Shivkumar",
+    url: "https://github.com/TFM-HITESH",
   },
 } as const;
 
